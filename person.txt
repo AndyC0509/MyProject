@@ -1,0 +1,12 @@
+140 Oliver 2 1005 1026
+13 Alice 1 3022
+150 Tom 1 1001
+77 Dolly 2 1001 1026
+111 David 0
+129 Jenny 0
+63 Eugene 2 2023 2021
+110 Cindy 1 2020
+133 Hailey 1 2018
+12 Paul 2 1001 1005
+212 Phoebe 1 2018
+35 Tammy 2 2018 3015

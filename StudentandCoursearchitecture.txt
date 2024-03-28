@@ -1,0 +1,9 @@
+architecture 8
+102010 Eunice 80
+104244 Sandy 68
+104352 Edna 92
+101981 Paul 83
+102333 Sammy 92
+100111 Oliver 78
+101992 Pam 82
+102893 John 91
